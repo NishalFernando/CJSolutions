@@ -1,0 +1,2568 @@
+[
+  {
+    "id": "asus-24-vz24ehf-100hz-ips-frameless-monitor",
+    "name": "ASUS 24\" VZ24EHF 100Hz IPS Frameless Monitor",
+    "brand": "ASUS",
+    "category": "monitors",
+    "price": 30000,
+    "shortDescription": "23.8\" Full HD IPS · 100Hz · 1ms MPRT · Frameless",
+    "highlights": [
+      "24-inch Full HD (1920 x 1080) IPS monitor with stylish ultra-slim profile only 6.5mm thin",
+      "SmoothMotion 100Hz refresh rate and 1ms MPRT delivers a seamless, tear-free visual experience by enabling VRR (variable refresh rate)",
+      "VESA wall-mountable to save on desktop space",
+      "TUV Rheinland Certification for Flicker-free and Low Blue Light technology to ensure a comfortable viewing experience"
+    ],
+    "specGroups": [
+      {
+        "title": "Display",
+        "items": [
+          {
+            "label": "Panel Size (inch)",
+            "value": "23.8"
+          },
+          {
+            "label": "Aspect Ratio",
+            "value": "16:9"
+          },
+          {
+            "label": "Display Viewing Area (H x V)",
+            "value": "527.04 x 296.46 mm"
+          },
+          {
+            "label": "Display Surface",
+            "value": "Anti-Glare"
+          },
+          {
+            "label": "Backlight Type",
+            "value": "LED"
+          },
+          {
+            "label": "Panel Type",
+            "value": "IPS"
+          },
+          {
+            "label": "Viewing Angle (CR≧10, H/V)",
+            "value": "178°/ 178°"
+          },
+          {
+            "label": "Pixel Pitch",
+            "value": "0.2745mm"
+          },
+          {
+            "label": "Resolution",
+            "value": "1920x1080"
+          },
+          {
+            "label": "Brightness (Typ.)",
+            "value": "250cd/㎡"
+          },
+          {
+            "label": "Contrast Ratio (Typ.)",
+            "value": "1300:1"
+          },
+          {
+            "label": "Display Colors",
+            "value": "16.7M"
+          },
+          {
+            "label": "Response Time",
+            "value": "1ms MPRT"
+          },
+          {
+            "label": "Refresh Rate (Max)",
+            "value": "100Hz"
+          },
+          {
+            "label": "Flicker-free",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "title": "Features",
+        "items": [
+          {
+            "label": "Trace Free Technology",
+            "value": "Yes"
+          },
+          {
+            "label": "SPLENDID Technology",
+            "value": "Yes"
+          },
+          {
+            "label": "Color Temp. Selection",
+            "value": "Yes (4 modes)"
+          },
+          {
+            "label": "GamePlus",
+            "value": "Yes"
+          },
+          {
+            "label": "QuickFit",
+            "value": "Yes"
+          },
+          {
+            "label": "HDCP",
+            "value": "Yes, 1.4"
+          },
+          {
+            "label": "VRR Technology",
+            "value": "Yes (Adaptive-Sync)"
+          },
+          {
+            "label": "Motion Sync",
+            "value": "Yes"
+          },
+          {
+            "label": "Low Blue Light",
+            "value": "Yes"
+          },
+          {
+            "label": "Eye Care+ Technology",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "title": "Audio",
+        "items": [
+          {
+            "label": "Speaker",
+            "value": "No"
+          }
+        ]
+      },
+      {
+        "title": "I/O Ports",
+        "items": [
+          {
+            "value": "HDMI(v1.4) x 1"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/asus-vz24ehf-24-100hz-ips-monitor.webp",
+    "featured": true
+  },
+  {
+    "id": "asus-proart-24-pa248qfv-1080p-100hz-professional-monitor",
+    "name": "Asus ProArt 24\" PA248QFV 1080P 100Hz Professional Monitor",
+    "brand": "ASUS",
+    "category": "monitors",
+    "price": 89000,
+    "shortDescription": "24.1\" WUXGA IPS · 100Hz · 100% sRGB · HDR10",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": "Model",
+        "items": [
+          {
+            "value": "ProArt Display PA248QV Gen2 (PA248QFV)",
+            "label": "Model"
+          }
+        ]
+      },
+      {
+        "title": "Display",
+        "items": [
+          {
+            "label": "Panel Size (inch)",
+            "value": "24.1"
+          },
+          {
+            "label": "Aspect Ratio",
+            "value": "16:10"
+          },
+          {
+            "label": "Display Viewing Area (H x V)",
+            "value": "528.2 x 337.8 mm"
+          },
+          {
+            "label": "Display Surface",
+            "value": "Anti-Glare"
+          },
+          {
+            "label": "Backlight Type",
+            "value": "LED"
+          },
+          {
+            "label": "Panel Type",
+            "value": "IPS"
+          },
+          {
+            "label": "Viewing Angle (CR≧10, H/V)",
+            "value": "178°/ 178°"
+          },
+          {
+            "label": "Pixel Pitch",
+            "value": "0.270mm"
+          },
+          {
+            "label": "Resolution",
+            "value": "1920x1200"
+          },
+          {
+            "label": "Color Space (sRGB)",
+            "value": "100%"
+          },
+          {
+            "label": "Brightness (HDR, Peak)",
+            "value": "350 cd/㎡"
+          },
+          {
+            "label": "Brightness (Typ.)",
+            "value": "350cd/㎡"
+          },
+          {
+            "label": "Contrast Ratio (Max)",
+            "value": "3000:1"
+          },
+          {
+            "label": "Contrast Ratio (Typ.)",
+            "value": "1500:1"
+          },
+          {
+            "label": "Display Colors",
+            "value": "16.7M"
+          },
+          {
+            "label": "Response Time",
+            "value": "5ms(GTG)"
+          },
+          {
+            "label": "Refresh Rate (Max)",
+            "value": "100Hz"
+          },
+          {
+            "label": "HDR (High Dynamic Range) Support",
+            "value": "HDR10"
+          },
+          {
+            "label": "Flicker-free",
+            "value": "Yes"
+          },
+          {
+            "label": "LCD ZBD Warranty",
+            "value": "Yes(3 yr)"
+          }
+        ]
+      },
+      {
+        "title": "Features",
+        "items": [
+          {
+            "label": "Trace Free Technology",
+            "value": "Yes"
+          },
+          {
+            "label": "ProArt Preset",
+            "value": "User mode2, User mode1, HDR, Rec.709, P3, sRGB, Native"
+          },
+          {
+            "label": "Color Temp. Selection",
+            "value": "Yes (9300K, 6500K, 5500K, 5000K, DCI-P3, M Model)"
+          },
+          {
+            "label": "Color Adjustment",
+            "value": "RGB Tuning (Gain / Offset)"
+          },
+          {
+            "label": "Gamma Adjustment",
+            "value": "Yes (Support Gamma 1.8/2.0/2.2/2.4/2.6)"
+          },
+          {
+            "label": "Auto Rotation",
+            "value": "Yes, supported by DisplayWidget Center"
+          },
+          {
+            "label": "Color Accuracy",
+            "value": "△E< 2"
+          },
+          {
+            "label": "ProArt Palette",
+            "value": "Yes"
+          },
+          {
+            "label": "QuickFit Plus",
+            "value": "Yes"
+          },
+          {
+            "label": "HDCP",
+            "value": "Yes, 1.4"
+          },
+          {
+            "label": "VRR Technology",
+            "value": "Yes (Adaptive-Sync)"
+          },
+          {
+            "label": "DisplayWidget",
+            "value": "Yes, DisplayWidget Center"
+          },
+          {
+            "label": "Low Blue Light",
+            "value": "Yes"
+          },
+          {
+            "label": "Multiple HDR Mode",
+            "value": "Yes"
+          },
+          {
+            "label": "ASUS Power Sync",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "title": "Audio",
+        "items": [
+          {
+            "label": "Speaker",
+            "value": "Yes(2Wx2)"
+          }
+        ]
+      },
+      {
+        "title": "I/O Ports",
+        "items": [
+          {
+            "value": "DisplayPort 1.2 x 1"
+          },
+          {
+            "value": "HDMI(v2.1) x 1 (TMDS)"
+          },
+          {
+            "label": "USB Hub",
+            "value": "4x USB 3.2 Gen 1 Type-A"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/asus-proart-pa248qfv-24-monitor.webp"
+  },
+  {
+    "id": "asus-tuf-gaming-vg249q5r-24-fhd-fast-ips-200hz",
+    "name": "ASUS TUF GAMING VG249Q5R 24\" FHD FAST IPS 200HZ",
+    "brand": "ASUS",
+    "category": "monitors",
+    "price": 49500,
+    "shortDescription": "23.8\" Full HD Fast IPS · 200Hz · 1ms GTG",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": "Display",
+        "items": [
+          {
+            "label": "Panel Size (inch)",
+            "value": "23.8"
+          },
+          {
+            "label": "Aspect Ratio",
+            "value": "16:9"
+          },
+          {
+            "label": "Display Viewing Area (H x V)",
+            "value": "527.04 × 296.46 mm"
+          },
+          {
+            "label": "Display Surface",
+            "value": "Anti-Glare"
+          },
+          {
+            "label": "Backlight Type",
+            "value": "LED"
+          },
+          {
+            "label": "Panel Type",
+            "value": "Fast IPS"
+          },
+          {
+            "label": "Viewing Angle (CR≧10, H/V)",
+            "value": "178°/ 178°"
+          },
+          {
+            "label": "Pixel Pitch",
+            "value": "0.2745mm"
+          },
+          {
+            "label": "Resolution",
+            "value": "1920x1080"
+          },
+          {
+            "label": "Color Space (sRGB)",
+            "value": "100%"
+          },
+          {
+            "label": "Brightness (Typ.)",
+            "value": "300cd/㎡"
+          },
+          {
+            "label": "Contrast Ratio (Typ.)",
+            "value": "1000:1"
+          },
+          {
+            "label": "Display Colors",
+            "value": "16.7M"
+          },
+          {
+            "label": "Response Time",
+            "value": "1ms(GTG), 0.3ms(min.)"
+          },
+          {
+            "label": "Refresh Rate (Max)",
+            "value": "200Hz"
+          },
+          {
+            "label": "HDR (High Dynamic Range) Support",
+            "value": "HDR10"
+          },
+          {
+            "label": "Protection Glass",
+            "value": "No"
+          },
+          {
+            "label": "Flicker-free",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "title": "Features",
+        "items": [
+          {
+            "label": "Trace Free Technology",
+            "value": "Yes"
+          },
+          {
+            "label": "GameVisual",
+            "value": "Yes"
+          },
+          {
+            "label": "Color Temp. Selection",
+            "value": "Yes(4 modes)"
+          },
+          {
+            "label": "GamePlus",
+            "value": "Yes"
+          },
+          {
+            "label": "HDCP",
+            "value": "Yes, 2.3"
+          },
+          {
+            "label": "Extreme Low Motion Blur",
+            "value": "Yes"
+          },
+          {
+            "label": "VRR Technology",
+            "value": "Yes (Adaptive-Sync)"
+          },
+          {
+            "label": "GameFast Input technology",
+            "value": "Yes"
+          },
+          {
+            "label": "Shadow Boost",
+            "value": "Yes"
+          },
+          {
+            "label": "DisplayWidget",
+            "value": "Yes, DisplayWidget Center"
+          },
+          {
+            "label": "Low Blue Light",
+            "value": "Yes"
+          },
+          {
+            "label": "ASUS Power Sync",
+            "value": "Yes"
+          },
+          {
+            "label": "A.I. Assistant Technology",
+            "value": "AI Visual"
+          }
+        ]
+      },
+      {
+        "title": "Audio",
+        "items": [
+          {
+            "label": "Speaker",
+            "value": "Yes(2Wx2)"
+          }
+        ]
+      },
+      {
+        "title": "I/O Ports",
+        "items": [
+          {
+            "value": "DisplayPort 1.4 x 1 (HBR2)"
+          },
+          {
+            "value": "HDMI(v2.0) x 2"
+          },
+          {
+            "label": "Earphone Jack",
+            "value": "Yes"
+          }
+        ]
+      },
+      {
+        "title": "Signal Frequency",
+        "items": [
+          {
+            "label": "Digital Signal Frequency",
+            "value": "DP: 240~240 KHz(H) / 48~200 Hz (V)"
+          },
+          {
+            "label": "HDMI",
+            "value": "27~240 KHz (H) / 48~200 Hz (V)"
+          }
+        ]
+      }
+    ],
+    "image": "/images/products/asus-tuf-gaming-vg249q5r-24-200hz-monitor.webp",
+    "featured": true
+  },
+  {
+    "id": "asus-vivobook-15-f1504ma-core-5-315",
+    "name": "ASUS VIVOBOOK 15 F1504MA CORE 5 315",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 225000,
+    "shortDescription": "Core 5 315 · 8GB RAM · 256GB SSD · 15.6\" FHD",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Processor",
+            "value": "Intel Core 5 315 (6M Cache, up to 4.40 GHz)"
+          },
+          {
+            "label": "Memory",
+            "value": "8GB DDR5 5600MHz (8GB x 1)"
+          },
+          {
+            "label": "Storage",
+            "value": "256GB M.2 NVMe PCIe 4.0 SSD"
+          },
+          {
+            "label": "Display",
+            "value": "15.6\" FHD (1920x1080) IPS-Level"
+          },
+          {
+            "label": "Graphics",
+            "value": "Intel Graphics"
+          },
+          {
+            "label": "Keyboard",
+            "value": "Backlit Chiclet Keyboard"
+          },
+          {
+            "label": "Weight / Battery",
+            "value": "1.7 kg , 42WHrs"
+          },
+          {
+            "label": "Operating System",
+            "value": "Genuine Windows 11 Home 64Bit Pre-installed"
+          },
+          {
+            "label": "Included",
+            "value": "ASUS Backpack"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Nanotek warranty",
+    "image": "/images/products/asus-vivobook-15-f1504ma-core-5-315.webp",
+    "featured": true
+  },
+  {
+    "id": "asus-expertbook-p3-g1-p3606ccap-ultra-5-225h",
+    "name": "ASUS EXPERTBOOK P3 G1 P3606CCAP ULTRA 5 225H",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 425000,
+    "shortDescription": "Core Ultra 5 225H · 16GB RAM · 512GB SSD · 16\" WUXGA",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Processor",
+            "value": "Intel Core Ultra 5 225H (18MB Cache, up to 4.9 GHz, 14 cores, 14 Threads)"
+          },
+          {
+            "label": "Memory",
+            "value": "16GB DDR5 RAM 5600Mhz (16GB x 1)"
+          },
+          {
+            "label": "Storage",
+            "value": "512GB M.2 2280 NVMe PCIe 4.0 SSD"
+          },
+          {
+            "label": "Display",
+            "value": "16\" WUXGA (1920 x 1200) 300Nits"
+          },
+          {
+            "label": "Graphics",
+            "value": "Intel Graphics, Intel AI Boost NPU up to 13 TOPS"
+          },
+          {
+            "label": "Keyboard",
+            "value": "Backlit Chiclet Keyboard, US MIL STD 810H military grade standard (24 rocedures)"
+          },
+          {
+            "label": "Weight / Battery",
+            "value": "1.8kg, 50WHrs"
+          },
+          {
+            "label": "Included",
+            "value": "Asus Back pack"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years On-site Company warranty",
+    "image": "/images/products/asus-expertbook-p3-g1-p3606ccap-ultra-5-225h.webp",
+    "featured": true
+  },
+  {
+    "id": "asus-vivobook-15-m1502naq-amd-ryzen-5",
+    "name": "Asus Vivobook 15 M1502NAQ AMD Ryzen 5",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 299000,
+    "shortDescription": "Ryzen 5 · 16GB RAM · 512GB SSD · 15.6\" FHD",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Processor",
+            "value": "AMD Ryzen 5 150 (18MB Cache, up to 4.55 GHz, 6 cores, 12 Threads)"
+          },
+          {
+            "label": "Memory",
+            "value": "16GB DDR5 5600Mhz (8GB Onboard +8GB RAM)"
+          },
+          {
+            "label": "Storage",
+            "value": "512GB NVME M.2 SSD GEN4"
+          },
+          {
+            "label": "Display",
+            "value": "15.6\" FHD (1920x1080) IPS-Level 250Nits"
+          },
+          {
+            "label": "Graphics",
+            "value": "AMD Radeon Graphics"
+          },
+          {
+            "label": "Keyboard",
+            "value": "Backlit Keyboard"
+          },
+          {
+            "label": "Weight / Battery",
+            "value": "1.70 kg , 42WHrs"
+          },
+          {
+            "label": "Operating System",
+            "value": "Genuine Windows 11 Home 64Bit Pre-installed"
+          },
+          {
+            "label": "Software",
+            "value": "Microsoft Office Home 2024 + Microsoft 365 Basic (with 100GB of cloud storage)"
+          },
+          {
+            "label": "Included",
+            "value": "Free ASUS Back pack"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Company Warranty",
+    "image": "/images/products/asus-vivobook-15-m1502naq-ryzen-5.webp"
+  },
+  {
+    "id": "asus-tuf-gaming-f16-fx607vu-core-5-15th-gen",
+    "name": "ASUS TUF GAMING F16 FX607VU Core 5 15th GEN",
+    "brand": "ASUS",
+    "category": "laptops",
+    "price": 439000,
+    "shortDescription": "Core 5 210H · RTX 4050 · 16GB RAM · 16\" 144Hz",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Processor",
+            "value": "Intel® Core 5 processor 210H (12M Cache, up to 4.80 GHz)"
+          },
+          {
+            "label": "Memory",
+            "value": "16GB DDR5 5600Mhz (16GB X 1)"
+          },
+          {
+            "label": "Storage",
+            "value": "512GB M.2 NVME GEN4 SSD"
+          },
+          {
+            "label": "Display",
+            "value": "16\" 1080P WUXGA 144Hz 300Nits"
+          },
+          {
+            "label": "Graphics",
+            "value": "NVIDIA GeForce RTX 4050 6GB GDDR6 140W"
+          },
+          {
+            "label": "Keyboard",
+            "value": "Backlit Chiclet Keyboard 1-Zone RGB"
+          },
+          {
+            "label": "Weight / Battery",
+            "value": "2.2kg, 56WHrs"
+          },
+          {
+            "label": "Operating System",
+            "value": "Genuine Windows 11 Home 64Bit Pre-installed"
+          },
+          {
+            "label": "Software",
+            "value": "Microsoft Office Home 2024 + Microsoft 365 Basic"
+          },
+          {
+            "label": "Included",
+            "value": "Free TUF Gaming backpack"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Company warranty",
+    "image": "/images/products/asus-tuf-gaming-f16-fx607vu-core-5.webp",
+    "featured": true
+  },
+  {
+    "id": "lenovo-loq-essential-15arp10e-ryzen-7",
+    "name": "Lenovo LOQ Essential 15ARP10E RYZEN 7",
+    "brand": "Lenovo",
+    "category": "laptops",
+    "price": 389000,
+    "shortDescription": "Ryzen 7 7735HS · RTX 4050 · 16GB RAM · 15.6\" 144Hz",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Processor",
+            "value": "AMD Ryzen™ 7 7735HS (8C / 16T 4.75GHz, 4MB L2 /16MB L3)"
+          },
+          {
+            "label": "Memory",
+            "value": "16GB DDR5 4800Mhz (1 Slot Removable)"
+          },
+          {
+            "label": "Storage",
+            "value": "512GB SSD NVMe GEN4"
+          },
+          {
+            "label": "Display",
+            "value": "15.6\" FHD (1920x1080) IPS 300nits Anti-glare, 100% sRGB, 144Hz, G-SYNC®"
+          },
+          {
+            "label": "Graphics",
+            "value": "NVIDIA RTX 4050 6GB GDDR6 Boost Clock 1605MHz"
+          },
+          {
+            "label": "Keyboard",
+            "value": "White backlit keyboard"
+          },
+          {
+            "label": "Weight / Battery",
+            "value": "1.77 kg, 57 WHr"
+          },
+          {
+            "label": "Operating System",
+            "value": "Genuine Windows 11 Home 64Bit Pre-installed"
+          },
+          {
+            "label": "Included",
+            "value": "Free Lenovo Backpack"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Company Warranty",
+    "image": "/images/products/lenovo-loq-essential-15arp10e-ryzen-7.webp",
+    "featured": true
+  },
+  {
+    "id": "dell-ect1250-i3-14100-8gb-512ssd-dos-tower-desktop",
+    "name": "DELL ECT1250 i3-14100|8GB|512SSD|DOS TOWER DESKTOP",
+    "brand": "Dell",
+    "category": "desktop-computers",
+    "price": 280000,
+    "shortDescription": "Core i3-14100 · 8GB DDR5 · 512GB SSD · DOS",
+    "highlights": [
+      "Intel Core i3-14100 14th Gen processor with turbo up to 4.7GHz",
+      "8GB DDR5 4800MT/s RAM for smooth multitasking",
+      "512GB M.2 PCIe NVMe SSD for fast boot and storage",
+      "Intel UHD Graphics 730 with shared memory",
+      "Multiple USB ports including USB-C and HDMI 2.1",
+      "Compact Dell desktop chassis with 180W power supply",
+      "DOS operating system – ready for custom OS installation"
+    ],
+    "specGroups": [],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/dell-ect1250-i3-14100-tower-desktop.webp"
+  },
+  {
+    "id": "msi-pro-dp180-14a-desktop-i5",
+    "name": "MSI Pro DP180 14A Desktop – i5",
+    "brand": "MSI",
+    "category": "desktop-computers",
+    "price": 300000,
+    "shortDescription": "Core i5-14400F · 8GB DDR5 · 512GB SSD · with monitor",
+    "highlights": [
+      "Intel Core i5-14400F Processor",
+      "8GB DDR5 RAM",
+      "512GB NVME M.2 SSD",
+      "MSI Pro Mp225v Monitor",
+      "MSI N210 1GB Graphics Card"
+    ],
+    "specGroups": [],
+    "image": "/images/products/msi-pro-dp180-14a-desktop-i5.webp",
+    "featured": true
+  },
+  {
+    "id": "intel-core-i5-12400f-18m-cache-up-to-4-40-ghz",
+    "name": "INTEL CORE I5 12400F (18M CACHE, UP TO 4.40 GHZ)",
+    "brand": "Intel",
+    "category": "computer-components",
+    "price": 52000,
+    "shortDescription": "6 cores · 12 threads · up to 4.40 GHz · 65W",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Total Cores",
+            "value": "6"
+          },
+          {
+            "label": "Total Threads",
+            "value": "12"
+          },
+          {
+            "label": "Max Turbo Frequency",
+            "value": "4.40 GHz"
+          },
+          {
+            "label": "Performance-core Max Turbo Frequency",
+            "value": "4.40 GHz"
+          },
+          {
+            "label": "Performance-core Base Frequency",
+            "value": "2.50 GHz"
+          },
+          {
+            "label": "Cache",
+            "value": "18 MB Intel® Smart Cache"
+          },
+          {
+            "label": "Total L2 Cache",
+            "value": "7.5 MB"
+          },
+          {
+            "label": "Processor Base Power",
+            "value": "65 W"
+          }
+        ]
+      }
+    ],
+    "image": "/images/products/intel-core-i5-12400f-processor.webp"
+  },
+  {
+    "id": "intel-core-i3-12100-12m-cache-up-to-4-30",
+    "name": "INTEL CORE I3 12100 (12M CACHE, UP TO 4.30)",
+    "brand": "Intel",
+    "category": "computer-components",
+    "price": 43000,
+    "shortDescription": "4 cores · 8 threads · up to 4.3 GHz · LGA 1700",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Processor Family",
+            "value": "12th Generation Intel Core i3 (Alder Lake)"
+          },
+          {
+            "label": "Total Cores",
+            "value": "4 (Performance-cores only)"
+          },
+          {
+            "label": "Total Threads",
+            "value": "8 (with Hyper-Threading Technology)"
+          },
+          {
+            "label": "P-core Base Frequency",
+            "value": "3.3 GHz"
+          },
+          {
+            "label": "Max Turbo Frequency",
+            "value": "Up to 4.3 GHz"
+          },
+          {
+            "label": "Cache (Intel Smart Cache L3)",
+            "value": "12 MB"
+          },
+          {
+            "label": "Processor Base Power (PBP)",
+            "value": "60 W"
+          },
+          {
+            "label": "Maximum Turbo Power (MTP)",
+            "value": "89 W"
+          },
+          {
+            "label": "Integrated Graphics",
+            "value": "Intel UHD Graphics 730"
+          },
+          {
+            "label": "Memory Support",
+            "value": "Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s"
+          },
+          {
+            "label": "Max Memory Size",
+            "value": "128 GB (Dual Channel)"
+          },
+          {
+            "label": "PCI Express Revision",
+            "value": "5.0 and 4.0"
+          },
+          {
+            "label": "Max PCI Express Lanes",
+            "value": "20 (16x PCIe 5.0 + 4x PCIe 4.0)"
+          },
+          {
+            "label": "Socket Supported",
+            "value": "LGA 1700"
+          }
+        ]
+      }
+    ],
+    "image": "/images/products/intel-core-i3-12100-processor.webp"
+  },
+  {
+    "id": "asus-tuf-b860m-plus-wifi",
+    "name": "ASUS TUF B860M-PLUS WIFI",
+    "brand": "ASUS",
+    "category": "computer-components",
+    "price": 98500,
+    "shortDescription": "Intel B860 · LGA1851 · DDR5 · Wi-Fi 7 · mATX",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Model",
+            "value": "TUF GAMING B860M-PLUS WIFI"
+          },
+          {
+            "label": "CPU",
+            "value": "Intel® Core™ Ultra Processors (Series 2), LGA1851 socket. Supports Intel® Turbo Boost Technology 2.0 and Intel® Turbo Boost Max Technology 3.0"
+          },
+          {
+            "label": "Chipset",
+            "value": "Intel® B860 Chipset"
+          },
+          {
+            "label": "Memory",
+            "value": "4 x DIMM slots, max. 256GB, DDR5 support up to 8800+ MT/s (OC), Non-ECC, Un-buffered, CUDIMM support, Dual Channel Architecture, DIMM Fit, Intel® XMP, AEMP III"
+          },
+          {
+            "label": "Graphics Output",
+            "value": "1 x DisplayPort (max. 4K@60Hz DP 1.4), 1 x HDMI™ (max. 4K@60Hz HDMI 2.1), 1 x USB 20Gbps Type-C® (supports DisplayPort video output)"
+          },
+          {
+            "label": "PCIe Expansion Slots",
+            "value": "1 x PCIe 5.0 x16 slot (from CPU), 1 x PCIe 4.0 x4 slot (from B860 Chipset)"
+          },
+          {
+            "label": "Storage - M.2",
+            "value": "1 x M.2_1 (PCIe 5.0 x4 mode, 2280), 1 x M.2_2 (PCIe 4.0 x4 mode, 2242/2260/2280), 1 x M.2_3 (PCIe 4.0 x4 mode, 2280)"
+          },
+          {
+            "label": "Storage - SATA",
+            "value": "4 x SATA 6Gb/s ports (supports SATA RAID 0/1/5/10 via Intel® RST)"
+          },
+          {
+            "label": "Ethernet",
+            "value": "1 x Realtek 2.5Gb Ethernet with TUF LANGuard"
+          },
+          {
+            "label": "Wireless & Bluetooth",
+            "value": "Wi-Fi 7 (802.11be 2x2, 2.4/5/6GHz, 160MHz bandwidth, up to 2.9Gbps), Bluetooth® v5.4"
+          },
+          {
+            "label": "Rear USB Ports",
+            "value": "1 x USB 20Gbps (Type-C® w/ DP Alt mode), 2 x USB 10Gbps (Type-A), 4 x USB 5Gbps (Type-A), 1 x USB 2.0 (Type-A)"
+          },
+          {
+            "label": "Front USB Headers",
+            "value": "1 x USB 10Gbps connector (Type-C®), 1 x USB 5Gbps header (2 ports), 1 x USB 2.0 header (2 ports)"
+          },
+          {
+            "label": "Audio",
+            "value": "Realtek 7.1 Surround Sound High Definition Audio CODEC, Audio Shielding, S/PDIF out, Premium capacitors, Dedicated PCB layers"
+          },
+          {
+            "label": "Back Panel I/O",
+            "value": "1x USB 20Gbps Type-C, 2x USB 10Gbps, 4x USB 5Gbps, 1x USB 2.0, 1x DisplayPort, 1x HDMI, 1x Wi-Fi Module, 1x 2.5Gb Ethernet, 5x Audio jacks, 1x Optical S/PDIF out"
+          },
+          {
+            "label": "Internal Cooling Connectors",
+            "value": "1 x 4-pin CPU Fan header, 1 x 4-pin CPU OPT Fan header, 1 x 4-pin AIO Pump header, 3 x 4-pin Chassis Fan headers"
+          },
+          {
+            "label": "Internal Power Connectors",
+            "value": "1 x 24-pin Main Power connector, 2 x 8-pin +12V Power connectors"
+          },
+          {
+            "label": "Internal Misc Headers",
+            "value": "3 x Addressable Gen 2, 1 x Clear CMOS, 1 x Chassis Intrusion, 1 x Front Panel Audio (F_AUDIO), 1 x 10-1 pin System Panel, 1 x Thunderbolt™ (USB4®) header"
+          },
+          {
+            "label": "Special Features",
+            "value": "ASUS TUF Protection (DIGI+ VRM, ESD Guards, Overvoltage, SafeSlot), ASUS Q-Design (M.2 Q-Latch, PCIe Q-Release, Q-Antenna, Q-LED), VRM & M.2 Heatsinks"
+          },
+          {
+            "label": "Software Features",
+            "value": "Armoury Crate (AURA Sync, Fan Xpert 2+), ASUS DriverHub, GlideX, TurboV Core, DTS Audio Processing, ASUS EZ Flash, CrashFree BIOS 3"
+          },
+          {
+            "label": "BIOS",
+            "value": "2 x 128 Mb Flash ROM, UEFI AMI BIOS"
+          },
+          {
+            "label": "Manageability",
+            "value": "WOL by PME, PXE"
+          },
+          {
+            "label": "Included Accessories",
+            "value": "2 x SATA 6Gb/s cables, 1 x WiFi Q-Antenna, 2 x M.2 Rubber Packages, 1 x M.2 Screw package, TUF Gaming sticker, Quick start guide"
+          },
+          {
+            "label": "OS Support",
+            "value": "Windows 11 (22H2 & later)"
+          },
+          {
+            "label": "Form Factor",
+            "value": "mATX Form Factor (9.6 inch x 9.6 inch / 24.4 cm x 24.4 cm)"
+          }
+        ]
+      }
+    ],
+    "image": "/images/products/asus-tuf-b860m-plus-wifi-motherboard.webp"
+  },
+  {
+    "id": "crucial-8gb-ddr4-3200mhz-laptop-ram",
+    "name": "CRUCIAL 8GB DDR4 3200MHZ - LAPTOP RAM",
+    "brand": "Crucial",
+    "category": "computer-components",
+    "price": 28000,
+    "shortDescription": "8GB DDR4 3200MHz · SO-DIMM for laptops",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Brand & Series",
+            "value": "Crucial Basics (A division)"
+          },
+          {
+            "label": "Capacity",
+            "value": "8GB - Single"
+          },
+          {
+            "label": "Memory Type",
+            "value": "DDR4 Laptop RAM"
+          },
+          {
+            "label": "Form Factor",
+            "value": "SO-DIMM (260-pin format standard for laptops and mini PCs)"
+          },
+          {
+            "label": "Speed",
+            "value": "3200 MT/s (PC4-25600)"
+          },
+          {
+            "label": "Latency",
+            "value": "CL22 (Standard JEDEC timings of 22-22-22)"
+          },
+          {
+            "label": "Voltage",
+            "value": "1.2V (Standard DDR4 low-voltage operating power)"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/crucial-8gb-ddr4-3200mhz-laptop-ram.webp"
+  },
+  {
+    "id": "adata-xpg-gammix-8gb-3200mhz-d35-ddr4",
+    "name": "Adata XPG Gammix 8GB 3200Mhz D35 DDR4",
+    "brand": "ADATA",
+    "category": "computer-components",
+    "price": 29500,
+    "shortDescription": "8GB DDR4 3200MHz · Desktop UDIMM · XMP 2.0",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Memory Type",
+            "value": "DDR4, Desktop (UDIMM)"
+          },
+          {
+            "label": "Capacity",
+            "value": "8 GB"
+          },
+          {
+            "label": "Speed / Data Rate",
+            "value": "3200 MT/s (MHz)"
+          },
+          {
+            "label": "CAS Latency (Timings)",
+            "value": "CL16-20-20 (one common spec)"
+          },
+          {
+            "label": "Voltage",
+            "value": "1.35 V"
+          },
+          {
+            "label": "XMP / Overclocking",
+            "value": "Supports Intel XMP 2.0"
+          },
+          {
+            "label": "Platform Compatibility",
+            "value": "Verified for latest AMD platforms & Intel systems"
+          },
+          {
+            "label": "Operating Temp.",
+            "value": "0 °C to 85 °C"
+          },
+          {
+            "label": "Storage Temp.",
+            "value": "–20 °C to 65 °C"
+          },
+          {
+            "label": "Form Factor / Dimensions",
+            "value": "288-pin U-DIMM, 133.35 × 34 × 5.9 mm"
+          },
+          {
+            "label": "Weight",
+            "value": "~27.34 g"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/adata-xpg-gammix-d35-8gb-ddr4-3200mhz-ram.webp"
+  },
+  {
+    "id": "asus-rog-impact-iii-gaming-mouse",
+    "name": "ASUS ROG IMPACT III GAMING MOUSE",
+    "brand": "ASUS",
+    "category": "keyboards-mice",
+    "price": 18500,
+    "shortDescription": "Lightweight 59g wired RGB gaming mouse · 12,000 dpi",
+    "highlights": [],
+    "specGroups": [],
+    "description": "ROG Strix Impact III is a lightweight, ambidextrous form factor, 59-gram wired RGB gaming mouse, suitable for FPS gameplay, featuring a 12,000-dpi optical sensor, near-zero click latency, swappable mouse switch sockets, ROG Micro Mouse Switches, ROG Paracord, 100% PTFE mouse feet, and a durable design.",
+    "image": "/images/products/asus-rog-impact-iii-gaming-mouse.webp"
+  },
+  {
+    "id": "asus-tuf-gaming-m4-wireless-lightweight-gaming-mouse",
+    "name": "ASUS TUF Gaming M4 Wireless Lightweight Gaming Mouse",
+    "brand": "ASUS",
+    "category": "keyboards-mice",
+    "price": 16500,
+    "shortDescription": "Lightweight 62g wireless gaming mouse · 12,000 dpi",
+    "highlights": [
+      "Wireless gaming mouse with 2.4 GHz wireless and Bluetooth LE dual connectivity",
+      "Gaming-grade 12,000 dpi optical sensor for pixel-precise tracking, plus DPI button for on-the-fly four-level sensitivity adjustment",
+      "Mid-sized and lightweight 62-gram gaming mouse with ambidextrous design (excluding battery and dongle)"
+    ],
+    "specGroups": [],
+    "description": "A lightweight ambidextrous gaming mouse with dual wireless modes, a 12,000 dpi sensor, six programmable buttons, PBT top cover with ASUS Antibacterial Guard, 100% PTFE mouse feet and Armoury Crate.",
+    "image": "/images/products/asus-tuf-gaming-m4-wireless-gaming-mouse.webp",
+    "featured": true
+  },
+  {
+    "id": "logitech-mk215-wireless-keyboard-and-mouse-combo",
+    "name": "Logitech MK215 Wireless Keyboard and Mouse Combo",
+    "brand": "Logitech",
+    "category": "keyboards-mice",
+    "price": 6500,
+    "shortDescription": "Wireless keyboard and mouse combo",
+    "highlights": [],
+    "specGroups": [],
+    "image": "/images/products/logitech-mk215-wireless-keyboard-mouse-combo.webp"
+  },
+  {
+    "id": "logitech-k400-plus-wireless-touch-keyboard",
+    "name": "Logitech K400 Plus Wireless Touch Keyboard",
+    "brand": "Logitech",
+    "category": "keyboards-mice",
+    "price": 12000,
+    "shortDescription": "Wireless touch keyboard with built-in touchpad",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": "Dimensions",
+        "items": [
+          {
+            "label": "Height",
+            "value": "5.51 in (139.9 mm)"
+          },
+          {
+            "label": "Width",
+            "value": "13.95 in (354.3 mm)"
+          },
+          {
+            "label": "Depth",
+            "value": "0.93 in (23.5 mm)"
+          },
+          {
+            "label": "Weight",
+            "value": "13.76 oz (390 g) with batteries"
+          }
+        ]
+      },
+      {
+        "title": "Touchpad",
+        "items": [
+          {
+            "label": "Height",
+            "value": "2.99 in (76 mm)"
+          },
+          {
+            "label": "Width",
+            "value": "1.85 in (47 mm)"
+          }
+        ]
+      },
+      {
+        "title": "Connectivity",
+        "items": [
+          {
+            "label": "Connection Type",
+            "value": "Logitech Unifying protocol (2.4 GHz)"
+          },
+          {
+            "label": "Wireless range",
+            "value": ">33 ft / 10 m"
+          }
+        ]
+      }
+    ],
+    "image": "/images/products/logitech-k400-plus-wireless-touch-keyboard.webp"
+  },
+  {
+    "id": "hp-deskjet-ink-advantage-2336",
+    "name": "HP DeskJet Ink Advantage 2336",
+    "brand": "HP",
+    "category": "printers-scanners",
+    "price": 25000,
+    "shortDescription": "Print, copy, scan · up to 7.5 ppm black · USB 2.0",
+    "highlights": [
+      "Setup Cartridge - 5-20 pages (Initial Setup Use)"
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Functions",
+            "value": "Print, copy, scan"
+          },
+          {
+            "label": "Print speed black (ISO)",
+            "value": "Up to 7.5 ppm"
+          },
+          {
+            "label": "Print speed black (draft, letter)",
+            "value": "Up to 20 ppm"
+          },
+          {
+            "label": "Print speed black (draft, A4)",
+            "value": "Up to 20 ppm"
+          },
+          {
+            "label": "First page out black (A4, ready)",
+            "value": "As fast as 15 sec"
+          },
+          {
+            "label": "First page out color (letter, ready)",
+            "value": "As fast as 18 sec"
+          },
+          {
+            "label": "First page out color (A4, ready)",
+            "value": "As fast as 18 sec"
+          },
+          {
+            "label": "Duplex printing",
+            "value": "Manual (driver support provided)"
+          },
+          {
+            "label": "Duty cycle (monthly, letter)",
+            "value": "Up to 1000 pages"
+          },
+          {
+            "label": "Duty cycle (monthly, A4)",
+            "value": "Up to 1000 pages"
+          },
+          {
+            "label": "Recommended monthly page volume",
+            "value": "50 to 100"
+          },
+          {
+            "label": "Print quality black (best)",
+            "value": "Up to 1200 x 1200 rendered dpi"
+          },
+          {
+            "label": "Print quality color (best)",
+            "value": "Up to 4800 x 1200 optimized dpi color (when printing from a computer on selected HP photo papers and 1200 input dpi)"
+          },
+          {
+            "label": "Print languages",
+            "value": "HP PCL 3 GUI"
+          },
+          {
+            "label": "Print technology",
+            "value": "HP Thermal Inkjet"
+          },
+          {
+            "label": "Connectivity, standard",
+            "value": "1 Hi-Speed USB 2.0"
+          },
+          {
+            "label": "Mobile printing capability",
+            "value": "Mobile Print Capability not supported"
+          },
+          {
+            "label": "Network capabilities",
+            "value": "None"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/hp-deskjet-ink-advantage-2336.webp"
+  },
+  {
+    "id": "canon-pixma-g2010-ink-tank",
+    "name": "Canon PIXMA G2010 Ink Tank",
+    "brand": "Canon",
+    "category": "printers-scanners",
+    "price": 48000,
+    "shortDescription": "Ink tank · print, copy, scan · 4800 x 1200 dpi · USB",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Printing Resolution",
+            "value": "4 800 (horizontal) x 1 200 (vertical) dpi"
+          },
+          {
+            "label": "Print Head / Ink",
+            "value": "Number of Nozzles: Total 1 472 nozzles"
+          },
+          {
+            "label": "Ink Bottles",
+            "value": "GI-790 (Black, Cyan, Magenta, Yellow)"
+          },
+          {
+            "label": "Print speed – colour (ESAT)",
+            "value": "5.0 images per minute"
+          },
+          {
+            "label": "Print speed – B/W (ESAT)",
+            "value": "8.8 images per minute"
+          },
+          {
+            "label": "First print out – colour (ready)",
+            "value": "17s"
+          },
+          {
+            "label": "First print out – B/W (ready)",
+            "value": "11s"
+          },
+          {
+            "label": "First print out – colour (sleep)",
+            "value": "21s"
+          },
+          {
+            "label": "First print out – B/W (sleep)",
+            "value": "14s"
+          },
+          {
+            "label": "Photo (10.16 x 15.24cm)",
+            "value": "PP-201 / Borderless 60s"
+          },
+          {
+            "label": "Printable Width",
+            "value": "Bordered 203.2mm · Borderless 216mm"
+          },
+          {
+            "label": "Printable Area",
+            "value": "Borderless Printing Top / Bottom / Right / Left margin: each 0mm (Supported Paper Size: A4 / Letter / 10.16 x 15.24cm / 12.7 x 17.78cm / 20.32 x 25.4cm / Square (12.7 x12.7cm) / Business Card)"
+          },
+          {
+            "label": "Bordered Printing",
+            "value": "Top margin: 3mm, Bottom margin: 5mm, Left / Right margin: each 3.4mm (Letter / Legal Left: 6.4mm, Right: 6.3mm)"
+          },
+          {
+            "label": "Recommended Printing Area",
+            "value": "Top margin: 31.2mm"
+          },
+          {
+            "label": "Bottom margin",
+            "value": "32.5mm"
+          },
+          {
+            "label": "Paper Size",
+            "value": "A4, A5, B5, Letter, Legal, 10.16 x 15.24cm, 12.7 x 17.78cm, 20.32x 25.4cm, Envelopes (DL, COM10), Square (12.7x12.7cm), Business Card, Custom size (width 55 - 215.9mm, length 89 - 676mm)"
+          },
+          {
+            "label": "Paper handling – plain paper",
+            "value": "A4, A5, B5, Letter = 100, Legal = 10"
+          },
+          {
+            "label": "High Resolution Paper (HR-101N)",
+            "value": "A4, Letter = 80"
+          },
+          {
+            "label": "Photo Paper Plus Glossy II (PP-201)",
+            "value": "A4, Letter = 10, 10.16 x 15.24cm = 20, 12.7 x 17.78cm, 20.32 x 25.4 = 10, Square (12.7x12.7cm) = 20"
+          },
+          {
+            "label": "Photo Paper Plus Semi-Gloss (SG-201)",
+            "value": "A4, Letter = 10, 10.16 x 15.24cm = 20, 12.7 x 17.78cm, 20.32 x 25.4cm = 10"
+          },
+          {
+            "label": "Matte Photo Paper (MP-101)",
+            "value": "A4, Letter = 10, 10.16 x 15.24cm = 20"
+          },
+          {
+            "label": "Envelope",
+            "value": "European DL / US Com. #10 = 10"
+          },
+          {
+            "label": "Glossy Photo Paper \"Everyday Use\" (GP-508)",
+            "value": "A4 = 10, 10.16 x 15.24cm = 20"
+          },
+          {
+            "label": "Photo Paper Plus Glossy II (PP-208)",
+            "value": "A4, 10.16 x 15.24cm = 10"
+          },
+          {
+            "label": "Photo Sticker",
+            "value": "PS-108, PS-308R, PS-208, PS-808 = 1"
+          },
+          {
+            "label": "Paper Weight",
+            "value": "Rear Tray Plain Paper: 64 - 105g/m2, Canon specialty paper: paper weight: 275g/m2 Photo Paper Plus Glossy II (PP-201)"
+          },
+          {
+            "label": "Ink End Sensor",
+            "value": "Dot count"
+          },
+          {
+            "label": "Print Head Alignment",
+            "value": "Manual"
+          }
+        ]
+      },
+      {
+        "title": "Scan",
+        "items": [
+          {
+            "label": "Scanner Type",
+            "value": "Flatbed"
+          },
+          {
+            "label": "Scanning Method",
+            "value": "CIS (Contact Image Sensor)"
+          },
+          {
+            "label": "Optical Resolution",
+            "value": "600 x 1 200dpi"
+          },
+          {
+            "label": "Scanning Bit Depth (Input / Output)",
+            "value": "Grayscale 16 / 8 bit · Colour 48 / 24 bit (RGB each 16 / 8-bit)"
+          },
+          {
+            "label": "Line Scanning Speed",
+            "value": "Grayscale 1.5ms/line · Colour 3.5ms/line (300dpi)"
+          },
+          {
+            "label": "Scanning Speed (reflective, A4 colour, 300dpi)",
+            "value": "19s"
+          },
+          {
+            "label": "Document Size",
+            "value": "Flatbed: A4 / Letter (216 x 297mm)"
+          }
+        ]
+      },
+      {
+        "title": "Copy",
+        "items": [
+          {
+            "label": "Compatible Media",
+            "value": "A4, Letter · Plain Paper"
+          },
+          {
+            "label": "Image Quality",
+            "value": "Plain Paper: Fast, Standard"
+          },
+          {
+            "label": "Copy speed – colour (sFCOT)",
+            "value": "32s"
+          },
+          {
+            "label": "Copy speed – colour (sESAT)",
+            "value": "1.7 images per minute"
+          },
+          {
+            "label": "Multiple Copy",
+            "value": "Black / Colour: 1 - 20 pages"
+          }
+        ]
+      },
+      {
+        "title": "System Requirements",
+        "items": [
+          {
+            "label": "Windows",
+            "value": "Windows 10, Windows 8.1, Windows 7 SP1"
+          },
+          {
+            "label": "Macintosh",
+            "value": "Mac OS is not supported"
+          }
+        ]
+      },
+      {
+        "title": "General Specifications",
+        "items": [
+          {
+            "label": "Operation Panel",
+            "value": "Display LCD (3.04cm segment mono)"
+          },
+          {
+            "label": "Interface",
+            "value": "USB 2.0 Hi-Speed"
+          },
+          {
+            "label": "Paper Output Tray",
+            "value": "A4, Letter = 50, Legal = 10"
+          },
+          {
+            "label": "Operating Environment",
+            "value": "Temperature 5 - 35°C · Humidity 10 - 90% RH (no dew condensation)"
+          },
+          {
+            "label": "Recommended Environment",
+            "value": "Temperature 15 - 30°C · Humidity 10 - 80% RH (no dew condensation)"
+          },
+          {
+            "label": "Storage Environment",
+            "value": "Temperature 0 - 40°C · Humidity 5 - 95% RH (no dew condensation)"
+          },
+          {
+            "label": "Quiet Mode",
+            "value": "Available"
+          },
+          {
+            "label": "Acoustic Noise (PC Print)",
+            "value": "Plain Paper (A4, B/W) 53.5dB"
+          },
+          {
+            "label": "Power",
+            "value": "AC 100 - 240V; 50 / 60Hz"
+          },
+          {
+            "label": "Power consumption – off",
+            "value": "0.2W"
+          },
+          {
+            "label": "Power consumption – standby (USB)",
+            "value": "0.6W"
+          },
+          {
+            "label": "Power consumption – standby (all ports connected)",
+            "value": "0.6W"
+          },
+          {
+            "label": "Power consumption – copying",
+            "value": "9W"
+          },
+          {
+            "label": "Typical Electricity Consumption (TEC)",
+            "value": "0.1kWh"
+          },
+          {
+            "label": "Environment",
+            "value": "Regulation: RoHS (EU, China), WEEE (EU)"
+          },
+          {
+            "label": "Eco-Label",
+            "value": "Energy Star"
+          },
+          {
+            "label": "Dimension (W x D x H)",
+            "value": "Factory configuration 445 x 330 x 135mm"
+          },
+          {
+            "label": "Output / ADF trays extended",
+            "value": "445 x 533 x 260mm"
+          },
+          {
+            "label": "Weight",
+            "value": "6.3kg"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/canon-pixma-g2010-ink-tank.webp"
+  },
+  {
+    "id": "hp-smart-tank-520",
+    "name": "HP Smart Tank 520",
+    "brand": "HP",
+    "category": "printers-scanners",
+    "price": 46000,
+    "shortDescription": "Print, copy, scan · up to 12 ppm black · 5 ppm colour (ISO)",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Functions",
+            "value": "Print, copy, scan"
+          },
+          {
+            "label": "Print speed black (ISO)",
+            "value": "Up to 12 ppm"
+          },
+          {
+            "label": "Print speed black (draft, A4)",
+            "value": "Up to 22 ppm"
+          },
+          {
+            "label": "Print speed black (ISO, A4)",
+            "value": "Up to 12 ppm"
+          },
+          {
+            "label": "Print speed color (ISO)",
+            "value": "Up to 5 ppm"
+          },
+          {
+            "label": "Print speed color (draft, A4)",
+            "value": "Up to 16 ppm"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Warranty",
+    "image": "/images/products/hp-smart-tank-520.webp"
+  },
+  {
+    "id": "canon-pixma-g2730-3-in-1-multifunction-megatank-printer",
+    "name": "CANON PIXMA G2730 3-In-1 MULTIFUNCTION MEGATANK PRINTER",
+    "brand": "Canon",
+    "category": "printers-scanners",
+    "price": 50000,
+    "shortDescription": "MegaTank 3-in-1 · 4,800 x 1,200 dpi · GI-71 ink bottles",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Number of Nozzles",
+            "value": "Total 1,792 nozzles"
+          },
+          {
+            "label": "Ink Bottles (Type/Colours)",
+            "value": "GI-71, GI-71S (Bundled) (Pigment Ink/Black), (Dye-based Ink/Cyan, Magenta, Yellow)"
+          },
+          {
+            "label": "Maintenance Cartridge",
+            "value": "MC-G04"
+          },
+          {
+            "label": "Print Heads",
+            "value": "BH-70, CH-70 (Availability may vary by country)"
+          },
+          {
+            "label": "Maximum Printing Resolution",
+            "value": "4,800 (Horizontal) x 1,200 (Vertical) dpi"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Warranty",
+    "image": "/images/products/canon-pixma-g2730-megatank.webp"
+  },
+  {
+    "id": "ugreen-bluetooth-adapter-6-0",
+    "name": "UGREEN Bluetooth Adapter 6.0",
+    "brand": "UGREEN",
+    "category": "networking",
+    "price": 3000,
+    "shortDescription": "Bluetooth 6.0 · connects up to 5 devices · 20 m range",
+    "highlights": [
+      "Bluetooth 6.0 (EDR & BLE) for faster, stable, low-latency connections",
+      "Connect up to 5 Bluetooth devices simultaneously",
+      "Plug & Play on Windows 11 / 10 / 8.1 (driver required for Windows 7)",
+      "Stable wireless range up to 20 m (66 ft)",
+      "Compact USB-A dongle, portable and unobtrusive",
+      "Low-power, high-efficiency ATS2851 chipset"
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Model No",
+            "value": "CM748 – 75073"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/ugreen-bluetooth-adapter-6-0.webp"
+  },
+  {
+    "id": "prolink-dh-5102u-ac650-wireless-usb-adapter",
+    "name": "PROLiNK DH-5102U AC650 Wireless USB Adapter",
+    "brand": "PROLiNK",
+    "category": "networking",
+    "price": 4500,
+    "shortDescription": "AC650 dual-band Wi-Fi · 802.11ac · USB 2.0",
+    "highlights": [
+      "The DH-5102U AC650 Wireless USB Adapter has the capability to choose the best Wi-Fi band - 2.4GHz band for surfing and social media while 5GHz band for HD streaming and lag-free gaming."
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Wi-Fi standard",
+            "value": "IEEE 802.11b/g/n/ac"
+          },
+          {
+            "label": "Wireless LAN",
+            "value": "1T1R mode"
+          },
+          {
+            "label": "Connect Type",
+            "value": "USB2.0"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/prolink-dh-5102u-ac650-usb-wifi-adapter.webp"
+  },
+  {
+    "id": "pny-cs900-sata-iii-ssd-2-5-inch-1tb",
+    "name": "PNY CS900 SATA III SSD 2.5 INCH 1TB",
+    "brand": "PNY",
+    "category": "storage",
+    "price": 42500,
+    "shortDescription": "1TB 2.5\" SATA III SSD · up to 535 MB/s read",
+    "highlights": [
+      "Mainstream SSD for PC upgrade",
+      "Cost effective HDD replacement for better overall performance",
+      "Sequential Read of up to 535MB/s and Write of up to 515MB/s",
+      "Faster boot up and quicker application launch",
+      "Better overall system performance",
+      "Reliable storage",
+      "Low power consumption, cool and quiet operation"
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Capacity",
+            "value": "1TB"
+          },
+          {
+            "label": "PNY Part Number",
+            "value": "SSD7CS900-1TB-RB"
+          },
+          {
+            "label": "Form Factor",
+            "value": "2.5 inch"
+          },
+          {
+            "label": "Height",
+            "value": "7mm"
+          },
+          {
+            "label": "Interface",
+            "value": "SATA-III 6Gb/s; backwards compatible with SATA-II 3Gb/s"
+          },
+          {
+            "label": "Max Sequential Read Speed",
+            "value": "535 MB/s"
+          },
+          {
+            "label": "Max Sequential Write Speed",
+            "value": "515 MB/s"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/pny-cs900-1tb-sata-ssd.webp"
+  },
+  {
+    "id": "lexar-ns100-128gb-sata-ssd",
+    "name": "LEXAR NS100 128GB SATA SSD",
+    "brand": "Lexar",
+    "category": "storage",
+    "price": 15000,
+    "shortDescription": "128GB 2.5\" SATA III SSD · up to 520 MB/s read",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": "Performance & Specs",
+        "items": [
+          {
+            "label": "Capacity",
+            "value": "128GB"
+          },
+          {
+            "label": "Form Factor",
+            "value": "2.5-inch (7mm height)"
+          },
+          {
+            "label": "Interface",
+            "value": "SATA III 6Gb/s"
+          },
+          {
+            "label": "Max Read Speed",
+            "value": "Up to 520 MB/s"
+          },
+          {
+            "label": "Flash Memory Type",
+            "value": "TLC"
+          },
+          {
+            "label": "Endurance (TBW)",
+            "value": "64 TBW"
+          }
+        ]
+      },
+      {
+        "title": "Durability & Environment",
+        "items": [
+          {
+            "label": "Weight",
+            "value": "34g"
+          },
+          {
+            "label": "Shock Resistance",
+            "value": "1500G, duration 0.5ms, Half Sine Wave"
+          },
+          {
+            "label": "Operating Temperature",
+            "value": "0°C to 70°C (32°F to 158°F)"
+          },
+          {
+            "label": "Storage Temperature",
+            "value": "-40°C to 85°C (-40°F to 185°F)"
+          }
+        ]
+      }
+    ],
+    "warranty": "3 Years Warranty",
+    "image": "/images/products/lexar-ns100-128gb-sata-ssd.webp"
+  },
+  {
+    "id": "toshiba-dt01aca100-1tb-7200-rpm-hard-drive",
+    "name": "Toshiba DT01ACA100 1TB 7200 RPM Hard Drive",
+    "brand": "Toshiba",
+    "category": "storage",
+    "price": 38000,
+    "shortDescription": "1TB 3.5\" hard drive · 7200 RPM · 32MB cache",
+    "highlights": [
+      "Up to 3TB of Data Storage Capacity",
+      "3.5\", Low Profile Form Factor",
+      "7200 RPM",
+      "SATA up to 6.0Gb/s",
+      "Advanced Format (AF) 512e Sector Length"
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Interface",
+            "value": "SATA 6.0Gb/s"
+          },
+          {
+            "label": "Capacity",
+            "value": "1TB"
+          },
+          {
+            "label": "NAND Flash Memory Type",
+            "value": "Hard Drive"
+          },
+          {
+            "label": "RPM",
+            "value": "7200 RPM"
+          },
+          {
+            "label": "Cache",
+            "value": "32MB"
+          },
+          {
+            "label": "Average Latency",
+            "value": "4.17ms"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Warranty",
+    "image": "/images/products/toshiba-dt01aca100-1tb-hdd.webp"
+  },
+  {
+    "id": "asus-prime-750w-bronze-power-supply",
+    "name": "ASUS PRIME 750W BRONZE power supply",
+    "brand": "ASUS",
+    "category": "accessories",
+    "price": 22000,
+    "shortDescription": "750W · 80 Plus Bronze · ATX12V · Active PFC",
+    "highlights": [
+      "ASUS Prime 750W Bronze PSU brings efficient and durable power delivery to all-round PCs, and gaming rigs.",
+      "Dual ball fan bearings that can last up to twice as long as sleeve bearing designs.",
+      "An 80 Plus Bronze Certification is the result of low-ESR electrolytic capacitors and other premium components.",
+      "Etched cables can be bent easily during installation."
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Model",
+            "value": "PRIME-750B-BLACK"
+          },
+          {
+            "label": "Intel Form Factor",
+            "value": "ATX12V"
+          },
+          {
+            "label": "PFC Type",
+            "value": "Active PFC"
+          },
+          {
+            "label": "Dimensions",
+            "value": "150 x 150 x 86 mm"
+          }
+        ]
+      }
+    ],
+    "warranty": "5 Years Warranty",
+    "image": "/images/products/asus-prime-750w-bronze-power-supply.webp"
+  },
+  {
+    "id": "east-ea2200-2000va-line-interactive-ups",
+    "name": "EAST EA2200 2000VA Line interactive UPS",
+    "brand": "EAST",
+    "category": "accessories",
+    "price": 38500,
+    "shortDescription": "2000VA / 1200W line-interactive UPS",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Capacity",
+            "value": "2000 VA / 1200 W"
+          },
+          {
+            "label": "Input voltage",
+            "value": "162–295 Vac (145–295 Vac optional) for 220/230/240 V models; 80–150 Vac for 100/110/120 V models"
+          },
+          {
+            "label": "Input frequency",
+            "value": "50/60 Hz ±10% (auto-sensing)"
+          },
+          {
+            "label": "Output voltage",
+            "value": "220/230/240 Vac ±10% (or 100/110/120 Vac ±10%)"
+          },
+          {
+            "label": "Output frequency",
+            "value": "50/60 Hz ±1% (auto-sensing)"
+          },
+          {
+            "label": "Waveform",
+            "value": "pure sine wave on mains, simulated sine wave on battery"
+          },
+          {
+            "label": "Transfer time",
+            "value": "2–7 ms typical, 10 ms max."
+          },
+          {
+            "label": "Battery",
+            "value": "24 V DC, 12 V / 9.0 Ah × 2"
+          },
+          {
+            "label": "Recharge time",
+            "value": "6–8 hours"
+          },
+          {
+            "label": "Protections",
+            "value": "short circuit, battery overcharge/overdischarge, overload, surge"
+          },
+          {
+            "label": "Communications",
+            "value": "USB / RS232 / SNMP (optional) Humidity: 20–90% RH at 0–40 °C (non-condensing)"
+          },
+          {
+            "label": "Noise",
+            "value": "≤ 45 dB at 1 m"
+          }
+        ]
+      }
+    ],
+    "warranty": "2 Years Warranty (1 Year for the Battery)",
+    "image": "/images/products/east-ea2200-2000va-ups.webp"
+  },
+  {
+    "id": "arctic-p12-pro-argb-120mm-case-fan",
+    "name": "ARCTIC P12 PRO ARGB 120MM CASE FAN",
+    "brand": "ARCTIC",
+    "category": "accessories",
+    "price": 3500,
+    "shortDescription": "120mm PWM fan · 600–3000 RPM · A-RGB lighting",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Brand & Model",
+            "value": "ARCTIC P12 Pro A-RGB (Black / White)"
+          },
+          {
+            "label": "Part Number",
+            "value": "ACFAN00309A (Black) / ACFAN00311A (White)"
+          },
+          {
+            "label": "Quantity & Box Contents",
+            "value": "1 × 120 mm Fan, 4 × Mounting Screws"
+          },
+          {
+            "label": "Fan Dimensions",
+            "value": "120 (L) × 120 (W) × 25 (H) mm"
+          },
+          {
+            "label": "Net Weight",
+            "value": "185 g"
+          },
+          {
+            "label": "Fan Speed",
+            "value": "600–3000 RPM (PWM Controlled, 0 RPM below 5% PWM)"
+          },
+          {
+            "label": "Max Airflow",
+            "value": "77 CFM / 131 m³/h"
+          },
+          {
+            "label": "Static Pressure",
+            "value": "6.9 mmH₂O"
+          },
+          {
+            "label": "Bearing Type",
+            "value": "Fluid Dynamic Bearing (FDB)"
+          },
+          {
+            "label": "Fan Power & Voltage",
+            "value": "0.33 A | 12 V DC (Start-Up Voltage: 3.3 V DC)"
+          },
+          {
+            "label": "Cable Length",
+            "value": "400 mm + 80 mm Daisy-Chain Cable"
+          },
+          {
+            "label": "Fan Connector",
+            "value": "4-Pin PWM Plug + 4-Pin Socket"
+          },
+          {
+            "label": "RGB Lighting & LEDs",
+            "value": "12× A-RGB Gen2 LEDs (0.40 A | 5 V DC)"
+          },
+          {
+            "label": "RGB Connector",
+            "value": "3-Pin 5V A-RGB Plug + 3-Pin Socket"
+          },
+          {
+            "label": "Operating Ambient Temp",
+            "value": "0–40 °C"
+          },
+          {
+            "label": "Packaging Dimensions & Weight",
+            "value": "127 (L) × 125 (W) × 30 (H) mm | 0.221 kg (221 g)"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/arctic-p12-pro-argb-120mm-case-fan.webp"
+  },
+  {
+    "id": "asus-tuf-gaming-h1-gen-ii-usb-7-1",
+    "name": "ASUS TUF GAMING H1 GEN II USB 7.1",
+    "brand": "ASUS",
+    "category": "accessories",
+    "price": 17500,
+    "shortDescription": "Wired USB headset · virtual 7.1 · 40mm drivers",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Model",
+            "value": "TUF Gaming H1 Gen II"
+          },
+          {
+            "label": "Product Type",
+            "value": "USB headset"
+          },
+          {
+            "label": "Usage Scenario",
+            "value": "Gaming"
+          },
+          {
+            "label": "Interface",
+            "value": "Wired"
+          },
+          {
+            "label": "Connector",
+            "value": "USB-A"
+          },
+          {
+            "label": "Support Platform",
+            "value": "PC, PlayStation® 4, PlayStation® 5"
+          },
+          {
+            "label": "Driver Material",
+            "value": "Neodymium magnet"
+          },
+          {
+            "label": "Driver Size",
+            "value": "40mm"
+          },
+          {
+            "label": "Headphones Impedance",
+            "value": "32 ohm"
+          },
+          {
+            "label": "Headphones Frequency Response",
+            "value": "20Hz - 20KHz"
+          },
+          {
+            "label": "Microphone Pick-up Pattern",
+            "value": "Unidirectional"
+          },
+          {
+            "label": "Microphone Sensitivity",
+            "value": "-24dB"
+          },
+          {
+            "label": "Microphone Frequency Response",
+            "value": "100-10KHz"
+          },
+          {
+            "label": "AI Noise Cancelling Microphone",
+            "value": "No"
+          },
+          {
+            "label": "Channel",
+            "value": "Virtual 7.1"
+          },
+          {
+            "label": "Lighting",
+            "value": "Single-colored LED"
+          },
+          {
+            "label": "Aura",
+            "value": "No"
+          },
+          {
+            "label": "Foldablility",
+            "value": "No"
+          },
+          {
+            "label": "Weight",
+            "value": "297g"
+          },
+          {
+            "label": "Extra ear-cushion",
+            "value": "No"
+          },
+          {
+            "label": "Color",
+            "value": "Black"
+          },
+          {
+            "label": "Cable",
+            "value": "2 m"
+          },
+          {
+            "label": "Carry bag/box",
+            "value": "Yes"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/asus-tuf-gaming-h1-gen-ii-headset.webp"
+  },
+  {
+    "id": "soundpeats-c30-high-value-in-ear-earbuds",
+    "name": "SOUNDPEATS C30 HIGH-VALUE IN-EAR EARBUDS",
+    "brand": "SOUNDPEATS",
+    "category": "accessories",
+    "price": 5000,
+    "shortDescription": "Bluetooth 6.0 earbuds · Hybrid ANC · Hi-Res LDAC",
+    "highlights": [
+      "Hi-Res LDAC Audio with Immersive 3D Detail",
+      "Powerful 52dB Hybrid ANC with Transparency Mode",
+      "10-Hour Playback & 10-Minute Fast Charge for 3 Hours",
+      "6-Mic AI Call Noise Reduction with Wind Resistance",
+      "Bluetooth 6.0 Connectivity with IP54 Protection",
+      "Ergonomic Fit with a Premium Metallic Design"
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Audio Codec & Quality",
+            "value": "Hi-Res LDAC Audio with Immersive 3D Detail"
+          },
+          {
+            "label": "Active Noise Cancellation",
+            "value": "Powerful 52dB Hybrid ANC with Transparency Mode"
+          },
+          {
+            "label": "Battery Life & Playback",
+            "value": "10 hours continuous playback; 52 hours total with charging case"
+          },
+          {
+            "label": "Fast Charging",
+            "value": "10-minute quick charge yields 3 hours of playback"
+          },
+          {
+            "label": "Microphone & Call Quality",
+            "value": "6-Mic AI Call Noise Reduction with Wind Resistance"
+          },
+          {
+            "label": "Connectivity",
+            "value": "Bluetooth 6.0 with Multipoint Connection support"
+          },
+          {
+            "label": "Driver Architecture",
+            "value": "12mm Titanium-PU Driver with 0.619cc Independent Chamber"
+          },
+          {
+            "label": "Durability & Protection",
+            "value": "IP54 Dust and Water Resistance"
+          },
+          {
+            "label": "App Support",
+            "value": "PeatsAudio App for custom EQ and control settings"
+          }
+        ]
+      }
+    ],
+    "warranty": "6 Months Warranty",
+    "image": "/images/products/soundpeats-c30-earbuds.webp"
+  },
+  {
+    "id": "edifier-s880db-mkii-2-0-active-hi-fi-speaker",
+    "name": "EDIFIER S880DB MKII 2.0 Active Hi-Fi Speaker",
+    "brand": "Edifier",
+    "category": "accessories",
+    "price": 80000,
+    "shortDescription": "2.0 active speakers · 88W RMS · Bluetooth 5.3",
+    "highlights": [
+      "88W (RMS) total output power",
+      "1.25\" titanium diaphragm dome tweeters and 3.75\" long-throw aluminum diaphragm mid-low drivers",
+      "XMOS XU216 for full digital signal processing and supporting the resolution up to 24bit/192kHz",
+      "Hi-Res Audio and Hi-Res Audio Wireless certified",
+      "Bluetooth V5.3, USB-C, Optical, Coaxial and dual RCA inputs",
+      "Subwoofer output port available",
+      "Multiple preset audio effects",
+      "Rechargeable 2.4GHz remote control",
+      "Works with EDIFIER ConneX mobile app for additional functions"
+    ],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Total Output Power (RMS)",
+            "value": "Treble: 12W  2, Mid-low: 32W  2"
+          },
+          {
+            "label": "Driver",
+            "value": "3.75\" long-throw aluminum diaphragm mid-low drivers, 1.25\" titanium diaphragm dome tweeters"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Years Warranty",
+    "image": "/images/products/edifier-s880db-mkii-speakers.webp"
+  },
+  {
+    "id": "anker-soundcore-life-q20i-hybrid-anc-wireless-headhone",
+    "name": "ANKER SOUNDCORE LIFE Q20I HYBRID ANC WIRELESS HEADHONE",
+    "brand": "Anker",
+    "category": "accessories",
+    "price": 13000,
+    "shortDescription": "Hybrid ANC wireless headphones · up to 60h playtime",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Playtime",
+            "value": "60H (ANC off), 40H (ANC on)"
+          },
+          {
+            "label": "Sound",
+            "value": "Hi-Res, BassUp, Customized EQ"
+          },
+          {
+            "label": "Bluetooth Version",
+            "value": "5"
+          },
+          {
+            "label": "Active Noise Cancellation",
+            "value": "Hybrid ANC"
+          },
+          {
+            "label": "Fast Charging",
+            "value": "5 mins = 4 hours"
+          },
+          {
+            "label": "Calls",
+            "value": "Single mic"
+          },
+          {
+            "label": "Multipoint Connection",
+            "value": "Yes"
+          },
+          {
+            "label": "Special Features",
+            "value": "Bluetooth 5, AUX"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/anker-soundcore-life-q20i-headphones.webp"
+  },
+  {
+    "id": "ugreen-mini-dp-to-hdmi-converter-1080p",
+    "name": "UGREEN MINI DP TO HDMI CONVERTER 1080P",
+    "brand": "UGREEN",
+    "category": "cables-adapters",
+    "price": 3500,
+    "shortDescription": "Mini DisplayPort to HDMI · 1080P @ 60Hz",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Product Name",
+            "value": "UGREEN Mini DP to HDMI Converter 1080P"
+          },
+          {
+            "label": "Model Number",
+            "value": "MD112"
+          },
+          {
+            "label": "Part / SKU Number",
+            "value": "10461"
+          },
+          {
+            "label": "Input Interface",
+            "value": "Mini DisplayPort (Male)"
+          },
+          {
+            "label": "Output Interface",
+            "value": "HDMI (Female)"
+          },
+          {
+            "label": "Supported Resolution",
+            "value": "Up to 1080P @ 60Hz"
+          },
+          {
+            "label": "Internal Chipset",
+            "value": "NXP PTN3361"
+          },
+          {
+            "label": "Cable Core Material",
+            "value": "Tinned Oxygen-Free Copper"
+          },
+          {
+            "label": "Color",
+            "value": "Black"
+          },
+          {
+            "label": "Setup Type",
+            "value": "Plug and Play (No drivers or external power required)"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/ugreen-mini-dp-to-hdmi-converter-1080p.webp"
+  },
+  {
+    "id": "ugreen-4-port-10gbps-type-c-hub",
+    "name": "UGREEN 4-Port 10Gbps Type-c Hub",
+    "brand": "UGREEN",
+    "category": "cables-adapters",
+    "price": 5000,
+    "shortDescription": "2 × USB-C + 2 × USB-A · 10Gbps",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Model no",
+            "value": "CM806"
+          },
+          {
+            "label": "Ports",
+            "value": "2 × USB-C 3.2 Gen 2 (10Gbps) 2 × USB-A 3.2 Gen 2 (10Gbps)"
+          },
+          {
+            "label": "Data Transfer Speed",
+            "value": "Up to 10Gbps"
+          },
+          {
+            "label": "Plug & Play",
+            "value": "Yes, no drivers required"
+          },
+          {
+            "label": "Material",
+            "value": "Premium ABS & Aluminum alloy"
+          },
+          {
+            "label": "Size",
+            "value": "4 × 1.5 × 0.5 inches"
+          },
+          {
+            "label": "Color",
+            "value": "Black"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/ugreen-4-port-10gbps-type-c-hub.webp"
+  },
+  {
+    "id": "ugreen-cat8-pure-copper-ethernet-round-braided-od-3mm-to-5mm-cables-nw153",
+    "name": "Ugreen Cat8 Pure Copper Ethernet Round Braided OD 3mm TO 5mm Cables - NW153",
+    "brand": "UGREEN",
+    "category": "cables-adapters",
+    "price": 1500,
+    "shortDescription": "Cat8 Ethernet cable · 40Gbps · 2000MHz · RJ45",
+    "highlights": [],
+    "specGroups": [
+      {
+        "title": null,
+        "items": [
+          {
+            "label": "Model No",
+            "value": "NW153 - 80429"
+          },
+          {
+            "label": "Transmission Rate",
+            "value": "40Gbps"
+          },
+          {
+            "label": "Bandwidth",
+            "value": "2000MHz"
+          },
+          {
+            "label": "Feature",
+            "value": "Nylon braided Core"
+          },
+          {
+            "label": "Standard",
+            "value": "30AWG twisted pairs Core"
+          },
+          {
+            "label": "Material",
+            "value": "Pure copper"
+          },
+          {
+            "label": "Connector",
+            "value": "RJ45"
+          },
+          {
+            "label": "Wiring standard",
+            "value": "568B"
+          },
+          {
+            "label": "Diameter",
+            "value": "5.5mm"
+          }
+        ]
+      }
+    ],
+    "warranty": "1 Year Warranty",
+    "image": "/images/products/ugreen-cat8-ethernet-cable-nw153.webp"
+  }
+]
