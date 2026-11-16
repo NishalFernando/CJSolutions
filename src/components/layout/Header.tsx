@@ -73,7 +73,7 @@ export default function Header() {
             >
               <Search className="h-5 w-5" />
             </button>
-            <Button href={whatsappLink(generalEnquiryMessage())} external variant="whatsapp" size="sm" className="hidden sm:inline-flex" ariaLabel="Chat with us on WhatsApp">
+            <Button href={whatsappLink(generalEnquiryMessage())} external variant="whatsapp" size="sm" className="!hidden sm:!inline-flex" ariaLabel="Chat with us on WhatsApp">
               <WhatsAppIcon className="h-4 w-4" /> WhatsApp Us
             </Button>
             <button
